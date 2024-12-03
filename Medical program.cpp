@@ -65,13 +65,13 @@ void checkSymptoms() {
         std::cout << "- " << s << "\n";
     }
 
-    std::cout << "\nThis is a simple check system. Please consult a doctor for a professional diagnosis.\n";
+    std::cout << "\nYour results will be processed in a moment.\n";
 }
 
 void readInfo() {
     std::cout << "\n=== Read Information ===\n";
     std::cout << "This program helps you log your symptoms and provides basic information.\n";
-    std::cout << "For professional medical advice, consult a certified healthcare provider.\n";
+    std::cout << ".\n";
 }
 
 void helpMenu() {
